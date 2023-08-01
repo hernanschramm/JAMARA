@@ -1,0 +1,15 @@
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\bin\Debug\net7.0\JAMARA.Modelos.deps.json
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\bin\Debug\net7.0\JAMARA.Modelos.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\bin\Debug\net7.0\JAMARA.Modelos.pdb
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\bin\Debug\net7.0\JAMARA.Utilidades.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\bin\Debug\net7.0\JAMARA.Utilidades.pdb
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.csproj.AssemblyReference.cache
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.AssemblyInfoInputs.cache
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.AssemblyInfo.cs
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.csproj.CopyComplete
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\refint\JAMARA.Modelos.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\JAMARA.Modelos.pdb
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Modelos\obj\Debug\net7.0\ref\JAMARA.Modelos.dll

@@ -1,0 +1,17 @@
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JARAMA.AccesoDatos.deps.json
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JARAMA.AccesoDatos.dll
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JARAMA.AccesoDatos.pdb
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JAMARA.Modelos.dll
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JAMARA.Utilidades.dll
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JAMARA.Modelos.pdb
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\bin\Debug\net7.0\JAMARA.Utilidades.pdb
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.AssemblyInfo.cs
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.csproj.CopyComplete
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.dll
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\refint\JARAMA.AccesoDatos.dll
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\JARAMA.AccesoDatos.pdb
+C:\Users\IESVA\source\repos\JAMARA\JARAMA.AccesoDatos\obj\Debug\net7.0\ref\JARAMA.AccesoDatos.dll

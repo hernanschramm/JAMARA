@@ -1,0 +1,12 @@
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\bin\Debug\net7.0\JAMARA.Utilidades.deps.json
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\bin\Debug\net7.0\JAMARA.Utilidades.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\bin\Debug\net7.0\JAMARA.Utilidades.pdb
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.csproj.AssemblyReference.cache
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.AssemblyInfoInputs.cache
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.AssemblyInfo.cs
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\refint\JAMARA.Utilidades.dll
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\JAMARA.Utilidades.pdb
+C:\Users\IESVA\source\repos\JAMARA\JAMARA.Utilidades\obj\Debug\net7.0\ref\JAMARA.Utilidades.dll

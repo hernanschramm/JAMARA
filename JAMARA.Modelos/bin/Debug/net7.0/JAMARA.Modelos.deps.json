@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JAMARA.Modelos/1.0.0": {
+        "dependencies": {
+          "JAMARA.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "JAMARA.Modelos.dll": {}
+        }
+      },
+      "JAMARA.Utilidades/1.0.0": {
+        "runtime": {
+          "JAMARA.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JAMARA.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JAMARA.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
